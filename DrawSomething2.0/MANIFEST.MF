@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+
+　　Main-Class: AboutServer.StartServer
+
+　　Class-Path: ./lib/spring.jar ./lib/hibernate.jar ./lib/derby.jar
+
+　　SplashScreen-Imager: manager/resources/images/splash.jpg
